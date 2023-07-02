@@ -21,7 +21,7 @@ new CdkPipelineDemoStack(app, 'CdkPipelineDemoStack', {
 
     env: {
         account: '930939407278',
-        region: 'ap-northwest-1',
+        region: 'ap-northeast-1',
     }
 });
 
